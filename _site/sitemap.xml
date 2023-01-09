@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000/</loc>
+    <lastmod>2023-01-09T10:43:49.809Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/TODO/</loc>
+    <lastmod>2023-01-08T09:12:33.556Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/complex-page/</loc>
+    <lastmod>2023-01-09T11:19:04.520Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/nunjucks-page/</loc>
+    <lastmod>2023-01-09T11:04:39.247Z</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:3000/second-page/</loc>
+    <lastmod>2023-01-09T10:57:55.494Z</lastmod>
+  </url>
+</urlset>

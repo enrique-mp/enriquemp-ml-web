@@ -14,5 +14,4 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/deno
 
-_site/
-_bin/
+/_bin/
