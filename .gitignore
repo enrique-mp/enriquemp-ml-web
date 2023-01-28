@@ -14,4 +14,8 @@
 
 # End of https://www.toptal.com/developers/gitignore/api/deno
 
-/_bin/
+_bin
+_site
+posts/*.md
+deno.lock
+

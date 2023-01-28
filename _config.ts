@@ -7,5 +7,6 @@ const site = lume({
 });
 
 site.use(sitemap());
+site.copy("styles", "styles");
 
 export default site;

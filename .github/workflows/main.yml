@@ -1,4 +1,4 @@
-name: Publiss on Deno Deploy
+name: Publish on Deno Deploy
 
 on:
   push:
